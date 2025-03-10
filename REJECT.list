@@ -1,0 +1,5 @@
+# adobe(解决Adobe软件未经授权弹窗)
+DOMAIN-SUFFIX,adobe.com
+DOMAIN-SUFFIX,adobelogin.com
+DOMAIN-SUFFIX,adobesc.com
+DOMAIN-SUFFIX,adobe.io
