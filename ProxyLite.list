@@ -1,18 +1,18 @@
 # 代理补充列表
-DOMAIN-SUFFIX,subdl.com
-DOMAIN-SUFFIX,jimaku.cc
-DOMAIN-SUFFIX,opensubtitles.org
-DOMAIN-SUFFIX,gestdown.info
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,e-hentai.org
 DOMAIN-SUFFIX,exhentai.org
 DOMAIN-SUFFIX,rdma.ooguy.com
-DOMAIN-KEYWORD,nexus-cdn.com
+DOMAIN-SUFFIX,nexus-cdn.com
+DOMAIN-SUFFIX,subdl.com
+DOMAIN-SUFFIX,jimaku.cc
+DOMAIN-SUFFIX,gestdown.info
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
 DOMAIN-KEYWORD,z-library
+DOMAIN-KEYWORD,opensubtitles
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
