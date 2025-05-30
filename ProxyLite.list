@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,subdl.com
 DOMAIN-SUFFIX,jimaku.cc
 DOMAIN-SUFFIX,gestdown.info
 DOMAIN-SUFFIX,qbittorrent.org
+DOMAIN-SUFFIX,immortalwrt.org
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
