@@ -12,6 +12,7 @@
 
 # MyList域名关键字匹配
 DOMAIN-KEYWORD,facebook
+DOMAIN-KEYWORD,tiktok
 
 # MyList域名后缀匹配
 DOMAIN-SUFFIX,thnovel.com
