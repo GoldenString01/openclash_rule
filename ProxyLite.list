@@ -14,11 +14,6 @@ DOMAIN-SUFFIX,ipfoxy.com
 DOMAIN-SUFFIX,aijichang.com
 DOMAIN-SUFFIX,rewasd.com
 
-# vscode插件域名
-DOMAIN-SUFFIX,marketplace.visualstudio.com
-DOMAIN-SUFFIX,*.gallery.vsassets.io
-DOMAIN-SUFFIX,*.gallerycdn.vsassets.io
-
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
 DOMAIN-KEYWORD,z-library
