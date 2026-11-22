@@ -3,6 +3,13 @@
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,Claude
+
+
+# vscode插件域名
+DOMAIN-SUFFIX,marketplace.visualstudio.com
+DOMAIN-SUFFIX,*.gallery.vsassets.io
+DOMAIN-SUFFIX,*.gallerycdn.vsassets.io
+
 # 域名后缀匹配
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,chatgpt.com
